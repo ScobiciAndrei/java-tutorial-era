@@ -1,11 +1,11 @@
 package scobici.andrei._01JavaOutPut;
 
 /**
- * Clasa data este despre cum sa afisezi numerele la ecran si suma lor
+ * Questa classe serve per assegnare e printare le operazione matematiche dei numeri
  **/
 public class Numbers {
     /**
-     * @param args printeaza numere si suma/scaderea intre ele
+     * @param args sono dei array di argomente di entrata per il metodo main
      **/
     public static void main(String[] args) {
         System.out.println(3);//3

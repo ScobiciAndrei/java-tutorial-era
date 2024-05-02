@@ -1,5 +1,8 @@
 package scobici.andrei._01JavaOutPut;
 
+/**
+ * Questa classe serve per assegnare e printare
+ * */
 public class PrintExamples {
 
     public static void main(String[] args) {

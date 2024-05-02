@@ -5,11 +5,11 @@ package scobici.andrei._03JavaVariables;
  */
 public class Variable {
     /**
-     * String - pentru a scrie un text
-     * * int - pentru a da o valoarea intreaga numerala
-     * * char - pentru a adauga un sigur caracter
-     * * boolean - pentru a da o valoarea true sau false
-     * float - pentru a da un numar float (pentru a face ca java sa stie ca e float adaugam f dupa numar)
+     * String -serve per scrivere un testo
+     * int - serve per assegnare un valore intero
+     * char - serve per assegnare un carattere singolo
+     * boolean - serve per assegnare true o false
+     * float - serve per assegnare un valore float (pentru a face ca java sa stie ca e float adaugam f dupa numar)
      **/
     public static void main(String[] args) {
         String name = "Andrei";

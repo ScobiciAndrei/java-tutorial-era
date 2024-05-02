@@ -1,11 +1,11 @@
 package scobici.andrei._03JavaVariables.indentifiers;
 
 /**
- * Clasa data arata cum trebuie sa fie o variabile declarata clar
+ * Questa classe monstra come chiamare le variabile in modo giusto
  */
 public class Indentifiers {
     /**
-     * @param args declararea unui variabile in mod clar si explicit
+     * @param args la dichiarazione di una variabile e l'assegnazione di un nome
      */
     public static void main(String[] args) {
 
