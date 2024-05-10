@@ -14,15 +14,28 @@ public class Comments {
     /***
      * @param args lista de argumente la startarea programului
      * Daca metoda are return atunci poti folosi @return pentru a descrie informatia despre return
+     * @throws RuntimeException
      */
     public static void main(String[] args) {
         System.out.println("Hello world");
         System.out.println("I learn java");
 
-        System.out.print("Hello" );
+        System.out.print("Hello");
         System.out.print(" i print i same line ");
 
         //System.out.println(This line produce errore);
         System.out.println("this line have a comment"); //this line is good
+
+        display();
+    }
+
+    public static void display() throws RuntimeException {
+        boolean error = true;
+
+        if (error) {
+            throw new RuntimeException("Si è verificato un errore di runtime");
+        }
+        System.out.println("E andata a buon fine");
     }
 }
+
