@@ -3,6 +3,12 @@ package scobici.andrei._02Comments;
 /**
  * This is a class for showing how comments are working
  * press ctrl+Q to check the java doc
+ *
+ * @param - for input parameters
+ * @return - result of the method
+ * @throws - exceptionType - information about when throws this exception
+ * @ deprecated - this method is deprecated  --this class is not good or is not for use
+ * @since - specifies the version og the API in which the method was introduced.
  */
 public class Comments {
     /***
