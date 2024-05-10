@@ -1,11 +1,11 @@
 package scobici.andrei._01JavaOutPut;
 
 /**
- * Clasa data am invatat cum printezi o propozitie in java
+ * This class show how to print a text
  */
 public class PrintText {
     /**
-     * @param args Printarea unui fraze pe randuri noi si pe acelas rand
+     * @param args Difference between print and println
      **/
     public static void main(String[] args) {
         System.out.println("Hello World");
@@ -14,8 +14,7 @@ public class PrintText {
 
 
         System.out.println("Aceasta fraza e fara errori");
-        //E cu err din motiv ca nu are ghilimelele
-        // System.out.println(Aceasta fraza e cu errori);
+        // System.out.println(Aceasta fraza e cu errori); // Questa frase ha dei errori perche li mancano le virgolette
         System.out.print("Hello hello");
         System.out.print(" Say hello");
     }
